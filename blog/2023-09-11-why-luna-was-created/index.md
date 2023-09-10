@@ -7,6 +7,8 @@ tags: [luna]
 
 In this blog post I am going to explain why I created `luna`.
 
+<!--truncate-->
+
 ## Helping People Out
 
 ## University Courses

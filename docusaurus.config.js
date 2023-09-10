@@ -7,11 +7,11 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: "Luna",
-  tagline: "Dinosaurs are cool",
+  tagline: "World's simplest project-management tool",
   favicon: "img/favicon.ico",
 
   // Set the production url of your site here
-  url: "https://your-docusaurus-test-site.com",
+  url: "https://github.com",
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: "/",
@@ -41,15 +41,13 @@ const config = {
           sidebarPath: require.resolve("./sidebars.js"),
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl:
-            "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/",
+          editUrl: "https://github.com/basliq/luna-documentation",
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl:
-            "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/",
+          editUrl: "https://github.com/basliq/luna-documentation",
         },
         theme: {
           customCss: require.resolve("./src/css/custom.css"),
@@ -78,7 +76,7 @@ const config = {
           },
           { to: "/blog", label: "Blog", position: "left" },
           {
-            href: "https://github.com/facebook/docusaurus",
+            href: "https://github.com/basliq/luna-documentation",
             label: "GitHub",
             position: "right",
           },
@@ -91,25 +89,33 @@ const config = {
             title: "Docs",
             items: [
               {
-                label: "Tutorial",
-                to: "/docs/intro",
+                label: "Engineering",
+                to: "/docs/engineering",
+              },
+              {
+                label: "Luna Server Application",
+                to: "/docs/luna-server",
+              },
+              {
+                label: "Luna Web Application",
+                to: "/docs/luna-web",
               },
             ],
           },
           {
-            title: "Community",
+            title: "Luna Repos",
             items: [
               {
-                label: "Stack Overflow",
-                href: "https://stackoverflow.com/questions/tagged/docusaurus",
+                label: "Documentation",
+                href: "https://github.com/basliq/luna-documentation",
               },
               {
-                label: "Discord",
-                href: "https://discordapp.com/invite/docusaurus",
+                label: "Server Application",
+                href: "https://github.com/basliq/luna-server",
               },
               {
-                label: "Twitter",
-                href: "https://twitter.com/docusaurus",
+                label: "Web Application",
+                href: "https://github.com/basliq/luna-web",
               },
             ],
           },
@@ -120,14 +126,10 @@ const config = {
                 label: "Blog",
                 to: "/blog",
               },
-              {
-                label: "GitHub",
-                href: "https://github.com/facebook/docusaurus",
-              },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Luna. Built with Docusaurus 🦖`,
       },
       prism: {
         theme: lightCodeTheme,
