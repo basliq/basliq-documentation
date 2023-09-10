@@ -90,15 +90,15 @@ const config = {
             items: [
               {
                 label: "Engineering",
-                to: "/docs/engineering",
+                to: "/docs/category/engineering",
               },
               {
                 label: "Luna Server Application",
-                to: "/docs/luna-server",
+                to: "/docs/category/luna-server",
               },
               {
                 label: "Luna Web Application",
-                to: "/docs/luna-web",
+                to: "/docs/category/luna-web",
               },
             ],
           },
