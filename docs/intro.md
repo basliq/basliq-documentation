@@ -10,10 +10,10 @@ Luna is a simple project-management tool which helps you to manage your work, ha
 
 Luna doesn't offer any online services and is intended to be used on your own organization's servers or local computer for personal use. You can view the code from these following repositories:
 
-- [luna-server](../) (🚧 under development)
-- [luna-web](../) (🚧 under development)
-- [luna-cli](../) (⚠️ not started yet)
-- [luna-telegram](../) (⚠️ not started yet)
+- [luna-server](#getting-started) (🚧 under development)
+- [luna-web](#getting-started) (🚧 under development)
+- [luna-cli](#getting-started) (⚠️ not started yet)
+- [luna-telegram](#getting-started) (⚠️ not started yet)
 
 ## About this documentation
 
