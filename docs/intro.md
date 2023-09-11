@@ -4,7 +4,14 @@ sidebar_position: 1
 
 # Introduction
 
-Luna is a simple project-management tool which helps you to manage your work, have control over your tasks, orchestrate your team or just make plans for your life. You can use Luna from your terminal, Telegram messenger or a modern browser.
+Luna is a simple project-management tool which helps you to
+
+- manage your work
+- have control over your tasks
+- orchestrate your team
+- or just make plans for your life
+
+You can use Luna from your terminal, Telegram messenger or a modern browser.
 
 ## Getting started
 
