@@ -13,19 +13,39 @@ Luna is a simple project-management tool which helps you to
 
 You can use Luna from your terminal, Telegram messenger or a modern browser.
 
-## Getting started
-
-Luna doesn't offer any online services and is intended to be used on your own organization's servers or local computer for personal use. You can view the code from these following repositories:
-
-- [luna-server](#getting-started) (🚧 under development)
-- [luna-web](#getting-started) (🚧 under development)
-- [luna-cli](#getting-started) (⚠️ not started yet)
-- [luna-telegram](#getting-started) (⚠️ not started yet)
-
 ## About this documentation
 
-This documentation contains both the information about the software engineering decisions and software usage manual. In the first part you can find information about discovering the requirements, analyzing use cases and designing the system. In the following parts you can read about software specific information such as how to setup each project and how to use it.
+This documentation contains information about general engineering process details and application specific developer guides. If you are looking for a user manual kind of documentation to check what features Luna has, you can visit [luna-manual](https://github.com/basliq/luna-manual).
+
+:::info
+Check [luna-manual](https://github.com/basliq/luna-manual) for Luna's user manual documentation.
+:::
+
+## Getting started
+
+You can head over to different code repositories of the Luna project and there you can read about how to install each application. Luna is going to be served online in a near future but as said above you can host it on your computer or server too. You can view the code from these following repositories:
+
+- [luna-server repo](#getting-started) (🚧 under development)
+- [luna-web repo](#getting-started) (🚧 under development)
+- [luna-cli repo](#getting-started) (⚠️ not started yet)
+- [luna-telegram repo](#getting-started) (⚠️ not started yet)
+
+or you can read about their implementation details and developer guides in the following sections of current documentation:
+
+- [luna engineering docs](./engineering/intro.md) (🚧 under development)
+- [luna-server docs](./luna-server/intro.md) (🚧 under development)
+- [luna-web docs](./luna-web/intro.md) (🚧 under development)
+- [luna-cli docs](#getting-started) (⚠️ not started yet)
+- [luna-telegram docs](#getting-started) (⚠️ not started yet)
+
+:::caution
+These repositories have not been initialized yet.
+:::
 
 ## Goals
 
-Here in this [blog post](../blog/why-luna-was-created) you can read more about the initial goals of this project and why this project was created in the first place.
+Here in this [blog post](../blog/why-luna-was-created) you can read about the initial goals and motives of this project and why this project was created in the first place.
+
+## Contributors
+
+- [Amirata Faraji](https://github.com/atareversei) (Developer)
