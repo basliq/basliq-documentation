@@ -45,7 +45,7 @@ The best way was starting my own project because no one uses PWAs or Qwik here i
 
 Installing applications to your gramps' laptop, right from the browser, and unbelievably from the same codebase? No way! I had to test that out.
 
-### Web Assembly
+### Web assembly
 
 In fact there was no valid use case for WASM in this project but I wanted to still do it anyway just because my friend is a WASM hater.
 
@@ -53,7 +53,7 @@ In fact there was no valid use case for WASM in this project but I wanted to sti
 
 God this is just so awesome. Using a framework which doesn't have libraries, community or code examples is just so fun. \*Cries in O(1) Javascript execution.
 
-### Backend Development With Golang
+### Backend development with Golang
 
 Frontend realm is cool but it really doesn't feel powerful. Everything happens on the server. One server application instance servers millions of users but client is just for one user.
 
@@ -61,6 +61,6 @@ So in frontend, you don't face the challenges that become visible only when your
 
 You have to think about security. You have to think about services and API design and lots of other cool things which I didn't know anything about them but I was wager to take a look and get dirty.
 
-### CLI Development
+### CLI development
 
 I had created some toy CLI projects but I wanted to create something useful so I decided to develop a terminal client for Luna with limited features.
