@@ -22,7 +22,7 @@ Blog:
 
 This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
 
-If you don't have node or npm installed, visit te official website for [node](https://nodejs.org/en) and install the `LTS` version of node and you should be good to continue.
+If you don't have node or npm installed, visit the official website for [node](https://nodejs.org/en) and install the `LTS` version of node and you should be good to continue.
 
 `cd` into the root of the project and enter the following command to install the required packages:
 
