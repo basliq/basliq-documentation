@@ -4,16 +4,18 @@ sidebar_position: 1
 
 # Project Definition
 
-Introduction to engineering documentation.
+Introduction to engineering documentation. In this section we are going to discuss the general topics about the project.
 
 ## Objectives
 
-The things we will focus on.
+While developing Luna project we are trying to accomplish some objectives and goals:
+1.
 
 ## Target Audience
 
-Who will use Luna?
+Luna is going to be a simple and general-purpose project management tool with a slight orientation towards software development needs and use cases.
+
 
 ## Feasibility
 
-Make some rough estimations about time and costs to see if it is possible to do this project.
+Todo.
