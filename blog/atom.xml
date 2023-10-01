@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://basliq.github.io/blog</id>
+    <id>https://basliq.github.io/luna-documentation/blog</id>
     <title>Luna Blog</title>
     <updated>2023-09-11T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://basliq.github.io/blog"/>
+    <link rel="alternate" href="https://basliq.github.io/luna-documentation/blog"/>
     <subtitle>Luna Blog</subtitle>
-    <icon>https://basliq.github.io/img/favicon.ico</icon>
+    <icon>https://basliq.github.io/luna-documentation/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[Why Luna Was Created?]]></title>
-        <id>https://basliq.github.io/blog/why-luna-was-created</id>
-        <link href="https://basliq.github.io/blog/why-luna-was-created"/>
+        <id>https://basliq.github.io/luna-documentation/blog/why-luna-was-created</id>
+        <link href="https://basliq.github.io/luna-documentation/blog/why-luna-was-created"/>
         <updated>2023-09-11T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[In this blog post I am going to explain why I created luna.]]></summary>
         <content type="html"><![CDATA[<p>In this blog post I am going to explain why I created <code>luna</code>.<br>

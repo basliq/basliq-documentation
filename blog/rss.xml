@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
         <title>Luna Blog</title>
-        <link>https://basliq.github.io/blog</link>
+        <link>https://basliq.github.io/luna-documentation/blog</link>
         <description>Luna Blog</description>
         <lastBuildDate>Mon, 11 Sep 2023 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
@@ -10,8 +10,8 @@
         <language>en</language>
         <item>
             <title><![CDATA[Why Luna Was Created?]]></title>
-            <link>https://basliq.github.io/blog/why-luna-was-created</link>
-            <guid>https://basliq.github.io/blog/why-luna-was-created</guid>
+            <link>https://basliq.github.io/luna-documentation/blog/why-luna-was-created</link>
+            <guid>https://basliq.github.io/luna-documentation/blog/why-luna-was-created</guid>
             <pubDate>Mon, 11 Sep 2023 00:00:00 GMT</pubDate>
             <description><![CDATA[In this blog post I am going to explain why I created luna.]]></description>
             <content:encoded><![CDATA[<p>In this blog post I am going to explain why I created <code>luna</code>.<br>
