@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluna_documentation=self.webpackChunkluna_documentation||[]).push([[749],{9287:a=>{a.exports=JSON.parse('{"label":"luna","permalink":"/blog/tags/luna","allTagsPath":"/blog/tags","count":1}')}}]);

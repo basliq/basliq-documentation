@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://basliq.github.io/blog</id>
+    <title>Luna Blog</title>
+    <updated>2023-09-11T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://basliq.github.io/blog"/>
+    <subtitle>Luna Blog</subtitle>
+    <icon>https://basliq.github.io/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Why Luna Was Created?]]></title>
+        <id>https://basliq.github.io/blog/why-luna-was-created</id>
+        <link href="https://basliq.github.io/blog/why-luna-was-created"/>
+        <updated>2023-09-11T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In this blog post I am going to explain why I created luna.]]></summary>
+        <content type="html"><![CDATA[<p>In this blog post I am going to explain why I created <code>luna</code>.<br>
+<!-- -->Updated at: October 1, 2023</p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="the-real-reason">The Real Reason<a href="#the-real-reason" class="hash-link" aria-label="Direct link to The Real Reason" title="Direct link to The Real Reason">​</a></h2><p>I like <strong>challenges</strong>.
+That was the main reason why I started this project.
+I wanted to create fully functioning software from the scratch that people could actually use and benefit from it.
+I wanted to prove to myself that I am capable.</p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="impact">Impact<a href="#impact" class="hash-link" aria-label="Direct link to Impact" title="Direct link to Impact">​</a></h2><p>I mean we code every day but most of us can't see the direct impact of our pull-requests on the clients and customers,
+can we?
+I really wanted to create a piece of software that people could actually use and say this really helped me out,
+kudos to whoever made this possible.
+In this situation, that feeling that someone has noticed your work,
+and you have been useful to humanity is just sweet.</p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="getting-a-job">Getting a Job<a href="#getting-a-job" class="hash-link" aria-label="Direct link to Getting a Job" title="Direct link to Getting a Job">​</a></h2><p>This is a whole another story that I don't like to bring up here.</p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="being-the-cool-kid-on-campus">Being the Cool Kid on Campus<a href="#being-the-cool-kid-on-campus" class="hash-link" aria-label="Direct link to Being the Cool Kid on Campus" title="Direct link to Being the Cool Kid on Campus">​</a></h2><p>Duh😎</p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="merging-university-projects">Merging University Projects<a href="#merging-university-projects" class="hash-link" aria-label="Direct link to Merging University Projects" title="Direct link to Merging University Projects">​</a></h2><p>When I started thinking about this project (2023-09-11),
+I was a CE student in <code>Azad university: Tabriz branch</code>
+and as a student I had to work on assignments and projects for each course.</p><p>So I said to myself, <em>what would happen if instead of doing 10 meaningless small projects I did this one big project</em>?</p><p>To which I responded with <em>hmm, that's actually not a bad idea</em>.
+I talked with my professors to see if they approve this idea which they did and here we are.</p><p>List of courses that helped Luna grow into the beautiful software that she is now:</p><ul><li>System analysis and design (prof. Karimi, sem 4)</li><li>Database Design (prof. Pirahesh, sem 5)</li><li>Software Engineering (prof. Karimi, sem 5)</li><li>Artificial Intelligence (prof. Khodayi, sem 5)</li><li>Specific Topics: Social Network Analysis Using AI (prof. Khodayi, sem 5)</li></ul><h2 class="anchor anchorWithStickyNavbar_LWe7" id="testing-stuff-out">Testing Stuff Out<a href="#testing-stuff-out" class="hash-link" aria-label="Direct link to Testing Stuff Out" title="Direct link to Testing Stuff Out">​</a></h2><p>I was a frontend developer with one year of experience at the time I started developing Luna.
+But boy, I loved developing software,
+so I was trying to find a way to think about systems design,
+write backend code,
+try new frontend frameworks out (there are literally new frameworks out every week in the JS community,
+isn't that just cool?),
+get familiar with AI,
+and grow some vegetation in GitHub.</p><p>The best way was starting my own project because no one uses <code>PWA</code>s or <code>Qwik</code> here in Iran because every company is so busy surviving the economic crisis they miss the real point of software development which is having fun using the latest and shiniest tools out there in the wild and then <code>shift+del</code>ing the project because these tools are no longer supported :(
+Sorrowful indeed.</p><h3 class="anchor anchorWithStickyNavbar_LWe7" id="pwa">PWA<a href="#pwa" class="hash-link" aria-label="Direct link to PWA" title="Direct link to PWA">​</a></h3><p>Installing applications to your gramps' laptop, right from the browser, and unbelievably from the same codebase? No way! I had to test that out.</p><h3 class="anchor anchorWithStickyNavbar_LWe7" id="web-assembly">Web assembly<a href="#web-assembly" class="hash-link" aria-label="Direct link to Web assembly" title="Direct link to Web assembly">​</a></h3><p>In fact, there was no valid use case for <code>WASM</code> in this project,
+but I wanted to still do it anyway just because my friend is a <code>WASM</code> hater.</p><h3 class="anchor anchorWithStickyNavbar_LWe7" id="qwik">Qwik<a href="#qwik" class="hash-link" aria-label="Direct link to Qwik" title="Direct link to Qwik">​</a></h3><p>God this is just so awesome. Using a framework which doesn't have libraries, community or code examples is just so fun. <!-- -->*<!-- -->Cries in O(1) Javascript execution.</p><div class="theme-admonition theme-admonition-note alert alert--secondary admonition_LlT9"><div class="admonitionHeading_tbUL"><span class="admonitionIcon_kALy"><svg viewBox="0 0 14 16"><path fill-rule="evenodd" d="M6.3 5.69a.942.942 0 0 1-.28-.7c0-.28.09-.52.28-.7.19-.18.42-.28.7-.28.28 0 .52.09.7.28.18.19.28.42.28.7 0 .28-.09.52-.28.7a1 1 0 0 1-.7.3c-.28 0-.52-.11-.7-.3zM8 7.99c-.02-.25-.11-.48-.31-.69-.2-.19-.42-.3-.69-.31H6c-.27.02-.48.13-.69.31-.2.2-.3.44-.31.69h1v3c.02.27.11.5.31.69.2.2.42.31.69.31h1c.27 0 .48-.11.69-.31.2-.19.3-.42.31-.69H8V7.98v.01zM7 2.3c-3.14 0-5.7 2.54-5.7 5.68 0 3.14 2.56 5.7 5.7 5.7s5.7-2.55 5.7-5.7c0-3.15-2.56-5.69-5.7-5.69v.01zM7 .98c3.86 0 7 3.14 7 7s-3.14 7-7 7-7-3.12-7-7 3.14-7 7-7z"></path></svg></span>note</div><div class="admonitionContent_S0QG"><p>I am really ashamed to say this, but later I decided to use <code>Nextjs</code> instead of <code>Qwik</code>.</p></div></div><h3 class="anchor anchorWithStickyNavbar_LWe7" id="backend-development-with-golang">Backend development with Golang<a href="#backend-development-with-golang" class="hash-link" aria-label="Direct link to Backend development with Golang" title="Direct link to Backend development with Golang">​</a></h3><p>The Frontend realm is cool, but it really doesn't feel powerful.
+Everything happens on the server.
+One server application instance serves millions of users, but the client is just for one user.</p><p>So in frontend, you don't face the challenges that become visible only when your request counts grow.
+You have to implement your software with engineering stuff in mind so your servers don't go brr.
+It definitely involves more software engineering concerns.</p><p>You have to think about security.
+You have to think about services and API design and lots of other cool things which I didn't know anything about them,
+but I am eager to take a look and get dirty.</p><h3 class="anchor anchorWithStickyNavbar_LWe7" id="cli-development">CLI development<a href="#cli-development" class="hash-link" aria-label="Direct link to CLI development" title="Direct link to CLI development">​</a></h3><p>I had created some toy CLI projects, but I wanted to create something useful,
+so I decided to develop a terminal client for Luna with limited features.</p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="possible-future-side-hustle">Possible Future Side-Hustle<a href="#possible-future-side-hustle" class="hash-link" aria-label="Direct link to Possible Future Side-Hustle" title="Direct link to Possible Future Side-Hustle">​</a></h2><p>Classic capitalism using marketplaces.
+If I sold project management panacea for 5 dollars, wouldn't everybody be willing to purchase it?😈</p>]]></content>
+        <author>
+            <name>AtaReversei</name>
+            <uri>https://github.com/atareversei</uri>
+        </author>
+        <category label="luna" term="luna"/>
+    </entry>
+</feed>

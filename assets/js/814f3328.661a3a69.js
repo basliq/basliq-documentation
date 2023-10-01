@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluna_documentation=self.webpackChunkluna_documentation||[]).push([[535],{5641:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Why Luna Was Created?","permalink":"/blog/why-luna-was-created"}]}')}}]);
