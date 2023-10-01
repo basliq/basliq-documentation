@@ -18,6 +18,34 @@ You can use Luna from your terminal, Telegram messenger or a modern browser.
 Luna is still under development and doesn't have a stable and working release.
 :::
 
+## Features
+Legend for table of features:
+- ✅ It has been implemented.
+- ⚠️ It has been implemented partially.
+- 🚧 It is being working on.
+- 🔮 It is going to be added in the future.
+- ⛔ It will never be added.
+
+| #  | Feature            | Support | Description                                                                                                           |
+|----|:-------------------|:-------:|:----------------------------------------------------------------------------------------------------------------------|
+| 01 | Issue tracker      |   🚧    | The simplest piece of feature that each project management tool has. You can think of an issue as a task or a ticket. |
+| 02 | Issue time tracker |   🔮    | Track time for each issue to see what task is draining your resources so you can response quickly.                    |
+| 03 | Issue comment      |   🔮    | Talk with your teammates about a specific task in order to obtain more information.                                   |
+| 04 | Issue workflow     |   🔮    | Automate some actions to be done on some tasks on specific events.                                                    |
+| 05 | Resource manager   |   🔮    |
+| 06 | Kanban board       |   🚧    |
+| 07 | Gantt chart        |   🔮    |
+| 08 | Calendar view      |   🔮    |
+| 09 | List view          |   🔮    |
+| 10 | Message board      |   🔮    |
+| 11 | Chat               |   🔮    |
+| 12 | Daily feedback     |   🔮    |
+| 13 | Notification       |   🔮    |
+| 14 | Proofing           |   🔮    |
+| 15 | CRM                |   🔮    |
+| 16 | Invoice            |   🔮    |
+
+
 ## About this documentation
 
 This documentation contains information about general engineering discussions and application-specific developer guides. If you are looking for a user manual kind of documentation to see how Luna is best used, you can visit [luna-manual](https://github.com/basliq/luna-manual).
