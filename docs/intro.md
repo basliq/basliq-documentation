@@ -32,7 +32,7 @@ You can head over to different code repositories of the Luna project and there y
 
 or you can read about their implementation details and developer guides in the following sections of this documentation:
 
-- [luna engineering docs](./engineering/definition.md) (🚧 under development)
+- [luna engineering docs](project-definition/definition.md) (🚧 under development)
 - [luna-server docs](./luna-server/intro.md) (🚧 under development)
 - [luna-web docs](./luna-web/intro.md) (🚧 under development)
 - [luna-cli docs](#getting-started) (⚠️ not started yet)
