@@ -1,11 +1,11 @@
 ---
-slug: why-luna-was-created
-title: Why Luna Was Created?
+slug: why-Basliq-was-created
+title: Why Basliq Was Created?
 authors: [atareversei]
-tags: [luna]
+tags: [Basliq]
 ---
 
-In this blog post I am going to explain why I created `luna`.  
+In this blog post I am going to explain why I created `Basliq`.  
 Updated at: October 1, 2023
 
 <!--truncate-->
@@ -44,7 +44,7 @@ So I said to myself, _what would happen if instead of doing 10 meaningless small
 To which I responded with _hmm, that's actually not a bad idea_.
 I talked with my professors to see if they approve this idea which they did and here we are.
 
-List of courses that helped Luna grow into the beautiful software that she is now:
+List of courses that helped Basliq grow into the beautiful software that she is now:
 
 - System analysis and design (prof. Karimi, sem 4)
 - Database Design (prof. Pirahesh, sem 5)
@@ -54,7 +54,7 @@ List of courses that helped Luna grow into the beautiful software that she is no
 
 ## Testing Stuff Out
 
-I was a frontend developer with one year of experience at the time I started developing Luna.
+I was a frontend developer with one year of experience at the time I started developing Basliq.
 But boy, I loved developing software,
 so I was trying to find a way to think about systems design,
 write backend code,
@@ -100,7 +100,7 @@ but I am eager to take a look and get dirty.
 ### CLI development
 
 I had created some toy CLI projects, but I wanted to create something useful,
-so I decided to develop a terminal client for Luna with limited features.
+so I decided to develop a terminal client for Basliq with limited features.
 
 ## Possible Future Side-Hustle
 
