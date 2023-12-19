@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
-        <title>Luna Blog</title>
-        <link>https://basliq.github.io/luna-documentation/blog</link>
-        <description>Luna Blog</description>
+        <title>Basliq Blog</title>
+        <link>https://basliq.github.io/basliq-documentation/blog</link>
+        <description>Basliq Blog</description>
         <lastBuildDate>Mon, 11 Sep 2023 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <item>
-            <title><![CDATA[Why Luna Was Created?]]></title>
-            <link>https://basliq.github.io/luna-documentation/blog/why-luna-was-created</link>
-            <guid>https://basliq.github.io/luna-documentation/blog/why-luna-was-created</guid>
+            <title><![CDATA[Why Basliq Was Created?]]></title>
+            <link>https://basliq.github.io/basliq-documentation/blog/why-Basliq-was-created</link>
+            <guid>https://basliq.github.io/basliq-documentation/blog/why-Basliq-was-created</guid>
             <pubDate>Mon, 11 Sep 2023 00:00:00 GMT</pubDate>
-            <description><![CDATA[In this blog post I am going to explain why I created luna.]]></description>
-            <content:encoded><![CDATA[<p>In this blog post I am going to explain why I created <code>luna</code>.<br>
+            <description><![CDATA[In this blog post I am going to explain why I created Basliq.]]></description>
+            <content:encoded><![CDATA[<p>In this blog post I am going to explain why I created <code>Basliq</code>.<br>
 <!-- -->Updated at: October 1, 2023</p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="the-real-reason">The Real Reason<a href="#the-real-reason" class="hash-link" aria-label="Direct link to The Real Reason" title="Direct link to The Real Reason">​</a></h2><p>I like <strong>challenges</strong>.
 That was the main reason why I started this project.
 I wanted to create fully functioning software from the scratch that people could actually use and benefit from it.
@@ -26,7 +26,7 @@ In this situation, that feeling that someone has noticed your work,
 and you have been useful to humanity is just sweet.</p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="getting-a-job">Getting a Job<a href="#getting-a-job" class="hash-link" aria-label="Direct link to Getting a Job" title="Direct link to Getting a Job">​</a></h2><p>This is a whole another story that I don't like to bring up here.</p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="being-the-cool-kid-on-campus">Being the Cool Kid on Campus<a href="#being-the-cool-kid-on-campus" class="hash-link" aria-label="Direct link to Being the Cool Kid on Campus" title="Direct link to Being the Cool Kid on Campus">​</a></h2><p>Duh😎</p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="merging-university-projects">Merging University Projects<a href="#merging-university-projects" class="hash-link" aria-label="Direct link to Merging University Projects" title="Direct link to Merging University Projects">​</a></h2><p>When I started thinking about this project (2023-09-11),
 I was a CE student in <code>Azad university: Tabriz branch</code>
 and as a student I had to work on assignments and projects for each course.</p><p>So I said to myself, <em>what would happen if instead of doing 10 meaningless small projects I did this one big project</em>?</p><p>To which I responded with <em>hmm, that's actually not a bad idea</em>.
-I talked with my professors to see if they approve this idea which they did and here we are.</p><p>List of courses that helped Luna grow into the beautiful software that she is now:</p><ul><li>System analysis and design (prof. Karimi, sem 4)</li><li>Database Design (prof. Pirahesh, sem 5)</li><li>Software Engineering (prof. Karimi, sem 5)</li><li>Artificial Intelligence (prof. Khodayi, sem 5)</li><li>Specific Topics: Social Network Analysis Using AI (prof. Khodayi, sem 5)</li></ul><h2 class="anchor anchorWithStickyNavbar_LWe7" id="testing-stuff-out">Testing Stuff Out<a href="#testing-stuff-out" class="hash-link" aria-label="Direct link to Testing Stuff Out" title="Direct link to Testing Stuff Out">​</a></h2><p>I was a frontend developer with one year of experience at the time I started developing Luna.
+I talked with my professors to see if they approve this idea which they did and here we are.</p><p>List of courses that helped Basliq grow into the beautiful software that she is now:</p><ul><li>System analysis and design (prof. Karimi, sem 4)</li><li>Database Design (prof. Pirahesh, sem 5)</li><li>Software Engineering (prof. Karimi, sem 5)</li><li>Artificial Intelligence (prof. Khodayi, sem 5)</li><li>Specific Topics: Social Network Analysis Using AI (prof. Khodayi, sem 5)</li></ul><h2 class="anchor anchorWithStickyNavbar_LWe7" id="testing-stuff-out">Testing Stuff Out<a href="#testing-stuff-out" class="hash-link" aria-label="Direct link to Testing Stuff Out" title="Direct link to Testing Stuff Out">​</a></h2><p>I was a frontend developer with one year of experience at the time I started developing Basliq.
 But boy, I loved developing software,
 so I was trying to find a way to think about systems design,
 write backend code,
@@ -42,9 +42,9 @@ You have to implement your software with engineering stuff in mind so your serve
 It definitely involves more software engineering concerns.</p><p>You have to think about security.
 You have to think about services and API design and lots of other cool things which I didn't know anything about them,
 but I am eager to take a look and get dirty.</p><h3 class="anchor anchorWithStickyNavbar_LWe7" id="cli-development">CLI development<a href="#cli-development" class="hash-link" aria-label="Direct link to CLI development" title="Direct link to CLI development">​</a></h3><p>I had created some toy CLI projects, but I wanted to create something useful,
-so I decided to develop a terminal client for Luna with limited features.</p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="possible-future-side-hustle">Possible Future Side-Hustle<a href="#possible-future-side-hustle" class="hash-link" aria-label="Direct link to Possible Future Side-Hustle" title="Direct link to Possible Future Side-Hustle">​</a></h2><p>Classic capitalism using marketplaces.
+so I decided to develop a terminal client for Basliq with limited features.</p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="possible-future-side-hustle">Possible Future Side-Hustle<a href="#possible-future-side-hustle" class="hash-link" aria-label="Direct link to Possible Future Side-Hustle" title="Direct link to Possible Future Side-Hustle">​</a></h2><p>Classic capitalism using marketplaces.
 If I sold project management panacea for 5 dollars, wouldn't everybody be willing to purchase it?😈</p>]]></content:encoded>
-            <category>luna</category>
+            <category>Basliq</category>
         </item>
     </channel>
 </rss>

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkbasliq_documentation=self.webpackChunkbasliq_documentation||[]).push([[947],{175:a=>{a.exports=JSON.parse('{"label":"Basliq","permalink":"/basliq-documentation/blog/tags/basliq","allTagsPath":"/basliq-documentation/blog/tags","count":1}')}}]);
