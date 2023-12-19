@@ -6,7 +6,7 @@ tags: [Basliq]
 ---
 
 In this blog post I am going to explain why I created `Basliq`.  
-Updated at: October 1, 2023
+Updated at: December 20, 2023
 
 <!--truncate-->
 
@@ -14,21 +14,22 @@ Updated at: October 1, 2023
 
 I like **challenges**.
 That was the main reason why I started this project.
-I wanted to create fully functioning software from the scratch that people could actually use and benefit from it.
-I wanted to prove to myself that I am capable.
+I want to create a fully functioning software from scratch that people could actually use and benefit from it.
+I want to prove to myself that I am capable.
 
 ## Impact
 
 I mean we code every day but most of us can't see the direct impact of our pull-requests on the clients and customers,
 can we?
-I really wanted to create a piece of software that people could actually use and say this really helped me out,
+I really wanted to create a piece of software that people could actually use and say this thing really helped me out,
 kudos to whoever made this possible.
 In this situation, that feeling that someone has noticed your work,
 and you have been useful to humanity is just sweet.
 
 ## Getting a Job
 
-This is a whole another story that I don't like to bring up here.
+This is a whole another story that I don't like to bring up here but long story short by mentioning that you have developed
+a software that also happens to have decent quality, you would stand out in a job hunting.
 
 ## Being the Cool Kid on Campus
 Duh😎
@@ -54,33 +55,37 @@ List of courses that helped Basliq grow into the beautiful software that she is 
 
 ## Testing Stuff Out
 
-I was a frontend developer with one year of experience at the time I started developing Basliq.
-But boy, I loved developing software,
-so I was trying to find a way to think about systems design,
+I am a frontend developer with one year of experience at the time I have started to develop Basliq.
+But boy, I love developing software,
+so I am trying to find a way to think about system design,
 write backend code,
 try new frontend frameworks out (there are literally new frameworks out every week in the JS community,
 isn't that just cool?),
 get familiar with AI,
 and grow some vegetation in GitHub.
 
-The best way was starting my own project because no one uses `PWA`s or `Qwik` here in Iran because every company is so busy surviving the economic crisis they miss the real point of software development which is having fun using the latest and shiniest tools out there in the wild and then `shift+del`ing the project because these tools are no longer supported :(
+The best way is starting my own project because no one uses `PWA`s or `Qwik` here in Iran because every company is so busy
+surviving the economic crisis they miss the real point of software development which is to have fun using the latest and
+shiniest tools out there in the wild and then `shift+del`ing the project because these tools are no longer supported :(
 Sorrowful indeed.
 
 ### PWA
 
-Installing applications to your gramps' laptop, right from the browser, and unbelievably from the same codebase? No way! I had to test that out.
+Installing applications to your gramps' laptop, right from the browser, and unbelievably from the same codebase? No way!
+I have to test that out.
 
 ### Web assembly
 
-In fact, there was no valid use case for `WASM` in this project,
-but I wanted to still do it anyway just because my friend is a `WASM` hater.
+In fact, there is no valid use case for `WASM` in this project,
+but I still want to do it anyway just because my friend is a `WASM` hater.
 
 ### Qwik
 
-God this is just so awesome. Using a framework which doesn't have libraries, community or code examples is just so fun. \*Cries in O(1) Javascript execution.
+God this is just so awesome. Using a framework which doesn't have libraries, community or code examples is just so fun.
+\*Cries in O(1) Javascript execution.
 
 :::note
-I am really ashamed to say this, but later I decided to use `Nextjs` instead of `Qwik`.
+I am determined to use `Qwik` for public page like the landing page or other informative pages.
 :::
 
 ### Backend development with Golang
@@ -94,12 +99,12 @@ You have to implement your software with engineering stuff in mind so your serve
 It definitely involves more software engineering concerns.
 
 You have to think about security.
-You have to think about services and API design and lots of other cool things which I didn't know anything about them,
+You have to think about services and API design and lots of other cool things which I don't know anything about them,
 but I am eager to take a look and get dirty.
 
 ### CLI development
 
-I had created some toy CLI projects, but I wanted to create something useful,
+I have created some toy CLI projects, but I want to create something useful,
 so I decided to develop a terminal client for Basliq with limited features.
 
 ## Possible Future Side-Hustle
