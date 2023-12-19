@@ -22,9 +22,9 @@ Some applications don't provide a way to communicate with other teammates inside
 and delegate these tasks to other 3rd party applications.
 
 
-## What Luna Could Bring to the Table?
+## What Basliq Could Bring to the Table?
 
-Luna should be capable of:
+Basliq should be capable of:
 - Providing a smooth experience to project managers and other collaborators 
 - Functioning as a complete offline application for individuals with __no desire to store their information on the cloud__
 
@@ -34,12 +34,12 @@ and won't be available in the cloud so other devices won't have access to it.
 :::
 
 - Approaching edits as _offline-first_ so team members can edit offline and then sync their edits when internet connection is available
-- Helping managers with __powerful reports__ gathered from workspaces, boards, tasks, members' activities and comments and analyzed by __Luna AI__
-- Enabling in-app communications with Luna's __in-app chat application__
+- Helping managers with __powerful reports__ gathered from workspaces, boards, tasks, members' activities and comments and analyzed by __Basliq AI__
+- Enabling in-app communications with Basliq's __in-app chat application__
 - Providing mostly open-source codebase, __mostly free online services__ and cheap extra features
 
 :::info
-In the future Luna might have an option to enable superpowers!
+In the future Basliq might have an option to enable superpowers!
 Initially,
 the UI will start simple, but in the application settings you will be able to enable extra features.
 This is beneficial for small teams as they won't need lots of extra and unused features,
@@ -53,7 +53,7 @@ Larger organizations can opt in to more complex application later.
 
 ## Target Audience
 
-Luna is going to be a simple and general-purpose project management tool with a slight orientation towards software development needs and use cases.
+Basliq is going to be a simple and general-purpose project management tool with a slight orientation towards software development needs and use cases.
 The following is a list of most important targets: 
 
 - Small software development teams

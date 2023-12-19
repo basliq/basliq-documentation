@@ -6,7 +6,7 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: "Luna",
+  title: "Basliq",
   tagline: "World's simplest project-management tool",
   favicon: "img/favicon.ico",
 
@@ -14,12 +14,12 @@ const config = {
   url: "https://basliq.github.io",
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: "/luna-documentation/",
+  baseUrl: "/basliq-documentation/",
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: "basliq", // Usually your GitHub org/user name.
-  projectName: "luna-documentation", // Usually your repo name.
+  projectName: "basliq-documentation", // Usually your repo name.
   trailingSlash: false,
   deploymentBranch: "main",
 
@@ -43,13 +43,13 @@ const config = {
           sidebarPath: require.resolve("./sidebars.js"),
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl: "https://github.com/basliq/luna-documentation",
+          editUrl: "https://github.com/basliq/Basliq-documentation",
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl: "https://github.com/basliq/luna-documentation",
+          editUrl: "https://github.com/basliq/Basliq-documentation",
         },
         theme: {
           customCss: require.resolve("./src/css/custom.css"),
@@ -64,9 +64,9 @@ const config = {
       // Replace with your project's social card
       image: "img/docusaurus-social-card.jpg",
       navbar: {
-        title: "Luna",
+        title: "Basliq",
         logo: {
-          alt: "Luna",
+          alt: "Basliq",
           src: "img/logo.svg",
         },
         items: [
@@ -78,7 +78,7 @@ const config = {
           },
           { to: "/blog", label: "Blog", position: "left" },
           {
-            href: "https://github.com/basliq/luna-documentation",
+            href: "https://github.com/basliq/basliq-documentation",
             label: "GitHub",
             position: "right",
           },
@@ -95,29 +95,29 @@ const config = {
                 to: "/docs/category/engineering",
               },
               {
-                label: "Luna Server Application",
-                to: "/docs/category/luna-server",
+                label: "Basliq Server Application",
+                to: "/docs/category/Basliq-server",
               },
               {
-                label: "Luna Web Application",
-                to: "/docs/category/luna-web",
+                label: "Basliq Web Application",
+                to: "/docs/category/Basliq-web",
               },
             ],
           },
           {
-            title: "Luna Repos",
+            title: "Basliq Repos",
             items: [
               {
                 label: "Documentation",
-                href: "https://github.com/basliq/luna-documentation",
+                href: "https://github.com/basliq/basliq-documentation",
               },
               {
                 label: "Server Application",
-                href: "https://github.com/basliq/luna-server",
+                href: "https://github.com/basliq/basliq-server",
               },
               {
                 label: "Web Application",
-                href: "https://github.com/basliq/luna-web",
+                href: "https://github.com/basliq/basliq-web-applicataion",
               },
             ],
           },
@@ -131,7 +131,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Luna. Built with Docusaurus 🦖`,
+        copyright: `Copyright © ${new Date().getFullYear()} Basliq. Built with Docusaurus 🦖`,
       },
       prism: {
         theme: lightCodeTheme,

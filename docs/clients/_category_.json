@@ -1,0 +1,8 @@
+{
+  "label": "Clients",
+  "position": 4,
+  "link": {
+    "type": "generated-index",
+    "description": "All things related to client applications of Basliq."
+  }
+}

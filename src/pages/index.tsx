@@ -19,7 +19,7 @@ function HomepageHeader() {
             className="button button--secondary button--lg"
             to="/docs/intro"
           >
-            Luna Documentation
+            Basliq Documentation
           </Link>
         </div>
       </div>
@@ -30,7 +30,7 @@ function HomepageHeader() {
 export default function Home(): JSX.Element {
   const { siteConfig } = useDocusaurusContext();
   return (
-    <Layout description="Luna is the world's simplest project management tool.">
+    <Layout description="Basliq is the world's simplest project management tool.">
       <HomepageHeader />
       <main>
         <HomepageFeatures />
