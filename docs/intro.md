@@ -69,9 +69,9 @@ You can view the code from these following repositories:
 You can also read about their implementation details and developer guides in the following sections of this
 documentation:
 
-- [Basliq project definition](project-definition/definition) (🚧 under development)
-- [Basliq server docs](./services/intro) (🚧 under development)
-- [Basliq web application docs](./clients/web-application/intro) (🚧 under development)
+- [Basliq project definition](requirements/definition) (🚧 under development)
+- [Basliq server docs](architecture/intro) (🚧 under development)
+- [Basliq web application docs](api/web-application/intro) (🚧 under development)
 
 ## Goals
 

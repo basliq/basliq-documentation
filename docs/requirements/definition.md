@@ -2,9 +2,9 @@
 sidebar_position: 1
 ---
 
-# System Vision Document
+# Project Definition
 
-The starting point to engineering discussions.
+The starting point to system requirement discussions.
 
 ## Problem Description
 
