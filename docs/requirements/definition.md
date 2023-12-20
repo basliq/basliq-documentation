@@ -4,25 +4,37 @@ sidebar_position: 1
 
 # Project Definition
 
-The starting point to system requirement discussions.
+Basliq is a project-management tool that tries to solve some overlooked issues in the project-management world. 
+In this section, we first take a look at the existing problems and how Basliq aims to solve those issues.
+Then we make a rough estimation of who our users will be.
 
-## Problem Description
+## Problems
+This section lists a set of major problems that Basliq tries to solve them.
 
-There are countless project/task management tools in the marketplace,
-and some of them have over millions of users.
-Each one of these applications offer lots of features, but they still miss some key ones.  
+### National Businesses Are Facing Issues
+Many project/task management tools are __unavailable__ in __Iran__.
+They either ban the user from accessing their services completely or partially providing them.
+The other problem occurs when trying to manage a project that has many participants
+because most tools require the users to subscribe to their paid services when a team gets big enough.
+International monetary transactions are very difficult to do in Iran
+and to make things worse the companies often don’t provide a PPP.  
 
-Some of these applications have a very complex user interface which is not suitable for a small startup.
-Some have intuitive user interfaces but are unable to provide extra features if needed.  
+### Who Gets to Own the Data?
+There is indeed a wide variety of business models for project management tools
+but most popular ones only offer online services so your data resides in their services.
+This is not a concern for many organizations but __some prefer to keep their sensitive data in their servers__.  
 
-Most applications also don't use AI as a tool to help project managers to quickly analyze their projects.
-AI could also help with generating tasks, writing descriptions and taking commands from the user.  
+### Offline Support Is a Must
+In today’s world, we take free instant internet access for granted but this is not the case.
+Many places don’t have high-speed internet connections, some have no internet connection for some time,
+and some individuals just want to be able to use the application without connectivity.
 
-Some applications don't provide a way to communicate with other teammates inside the app
-and delegate these tasks to other 3rd party applications.
+### Good-looking User Interfaces Have Become Rare
+A useful and eye-catching user interface is often overlooked in the software industry.
+Great project management experience requires a great UI.
 
 
-## What Basliq Could Bring to the Table?
+## What Basliq Brings to the Table?
 
 Basliq is capable of:
 - Providing a smooth experience to project managers and other collaborators 
@@ -53,9 +65,9 @@ Larger organizations can opt in to more complex application later.
 
 ## Target Audience
 
-Basliq is going to be a simple and general-purpose project management tool with a slight orientation towards software development needs and use cases.
-The following is a list of most important targets: 
+As seen from the goals and characteristics of Basliq,
+it can be concluded that our estimated target audience groups are but not limited to:
 
-- Small software development teams
-- Individual software developers
-- Other small teams and individuals
+- Iranian businesses and others that face the same issues
+- Individuals or small startup teams that need a free and powerful solution to their needs
+- Individuals who need offline software
