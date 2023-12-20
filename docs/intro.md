@@ -12,6 +12,12 @@ orchestrate your team, or just make plans for your life. You can use Basliq from
 Basliq is still under development and doesn't have a stable and functioning release.
 :::
 
+:::caution
+Most verb tenses are present but the matching features are most likely not implemented. We wrote the documentation this
+way to avoid inconsistency.
+To check which features are available right now, you can visit the [features table](#features).
+:::
+
 ## Features
 
 Legend for table of features:
@@ -39,8 +45,10 @@ Legend for table of features:
 | 13 | Notification       |   🔮    | Get up to speed with what has happened when you were not present.                                                     |
 | 14 | CRM                |   🔮    | Advanced communication means meant for people out of workspaces.                                                      |
 | 15 | Invoice            |   🔮    | Calculate invoices instantly with defining some values.                                                               |
+| 16 | Upgradeable UI     |   🔮    | Add features to your UI if you are using them, to avoid the UI getting cluttred by extra features.                    |
+| 17 | Offline-first      |   🔮    | You can use the application even if you are offline. Your data will be synced when you become online again.           |
 
-## About this documentation
+## About
 
 This documentation contains information about general engineering discussions and application-specific developer guides.
 
@@ -51,8 +59,10 @@ application. Basliq is going to be served online in a near future, but you can h
 You can view the code from these following repositories:
 
 - [Basliq server repository](https://github.com/basliq/basliq-server) (🚧 under development)
-- [Basliq web application (business logic) repository](https://github.com/basliq/basliq-web-application) (🚧 under development)
-- [Basliq web front desk (public facing pages) repository](https://github.com/basliq/basliq-web-front-desk) (🚧 under development)
+- [Basliq web application (business logic) repository](https://github.com/basliq/basliq-web-application) (🚧 under
+  development)
+- [Basliq web front desk (public facing pages) repository](https://github.com/basliq/basliq-web-front-desk) (🚧 under
+  development)
 
 ### Documentation
 
